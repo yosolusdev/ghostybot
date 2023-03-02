@@ -5,3 +5,4 @@ To add me to you're server, you can use the link below:
 The link will release when i am functional...
 
 
+Note: If you use the code that is in here please credit me because I worked hard for months to get this bot working.
